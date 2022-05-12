@@ -1,9 +1,9 @@
 # covidprojectsql
 
 
-It will guide you through Data Analysis utilising SQL 
+It will guide you through Data Analysis utilising SQL and Data Visualisation utilising Tableau
 
-Key features used in this  Data Analysis
+Key features used in this  Data Analysis (covidsqlproject)
 
 1. Aggretrate functions 
 
@@ -26,4 +26,6 @@ Key features used in this  Data Analysis
 10. Stored Procedures
 
 11. Date Functions
+
+
 
